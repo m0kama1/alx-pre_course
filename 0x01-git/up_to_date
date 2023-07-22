@@ -1,2 +1,1 @@
-git fetch origin main && git merge origin/main
-
+How to be up to date in git
